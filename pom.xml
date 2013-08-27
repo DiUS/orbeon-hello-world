@@ -13,9 +13,9 @@
 	
 	<dependencies>
 		<dependency>
-			<groupId>orbeon</groupId>
+			<groupId>com.orbeon</groupId>
 			<artifactId>orbeon-xforms-filter</artifactId>
-			<version>3.7.1</version>
+			<version>4.3.0.1</version>
 		</dependency>
 
 		<dependency>
